@@ -14,6 +14,7 @@ Welcome to the Country Guide web page! This application allows you to search for
 
 ## Preview
 
+![Country Guide](https://github.com/Umar-Ashraf09/Country-Guide/assets/92431008/e30f6588-efee-47ae-a695-0a88b49c0476)
 
 
 ## Technologies Used
